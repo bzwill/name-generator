@@ -1,0 +1,11 @@
+Archer
+Ranger
+Farseer
+Distant
+Governor
+Overseer
+Watchkeeper
+Sentinel
+Warden
+Picket
+Javelin
